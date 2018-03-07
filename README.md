@@ -13,7 +13,7 @@ This python program analyses whatsapp group chats using jupyter notebook.
 You're ready to go now! 
 
 ## Some minor bugs
-- It might not work if you're whatsapp language is english (dutch works fine).
+- It might not work if your whatsapp language is english (dutch works fine).
 - The next word prediction is sometimes a bit off.
 
 Both issues will be fixed soon.
@@ -23,7 +23,7 @@ Both issues will be fixed soon.
 - Personal predictions. Current prediction uses all messages of everyone.
 - Use unicode to predict emojis.
 - Show activity over time.
-- Include some fance graphs (matplotlib).
+- Include some fancy graphs (matplotlib).
 
 ## Suggestions?
 Feel free to edit the code.
